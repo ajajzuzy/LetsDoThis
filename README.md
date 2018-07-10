@@ -1,5 +1,5 @@
 # LetsDoThis
-Aplikacja została napisana w języku JAVA. Jej zadaniem jest kojarzenie ludzi o wspólnym hobby. 
+Aplikacja została napisana z wykorzystaniem technologii : Java EE, Spring, Hibernate. Jej zadaniem jest kojarzenie ludzi o wspólnym hobby. 
 
 Funkcjonalności :
 1. Rejestracja oraz logowanie użytkownika
